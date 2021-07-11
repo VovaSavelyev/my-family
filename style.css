@@ -1,0 +1,88 @@
+img {
+	width: 30%;
+	margin: 0 5%;
+	vertical-align: middle;
+}
+h1 {
+	display: inline-block;
+	color: #a8479f;
+	margin: 0;
+	text-shadow: -5px -5px #f0b1e9;
+}
+.topmenu {
+	background-color: #8dd4d9;
+	padding: 10px;
+}
+body {
+	margin: 0;
+}
+h2 {
+	text-align: center;
+	font-size: 30px;
+	color: purple;
+	font-style: italic;
+	text-decoration: underline;
+	margin: 0;
+}
+.gallery {
+	background-color: lightblue;
+	text-align: center;
+}
+.gallery_img {
+	width: 250px;
+	height: 250px;
+	margin: 35px;
+	border: #b907fa 10px inset;
+	box-shadow: 0 0 50px #0710fa;
+}
+ol {
+	width: 115px;
+	margin: auto;
+	color: blue;
+	text-decoration: underline;
+}
+.familylist {
+	background-color: cyan;
+}
+th,td {
+	border: black 2px solid;
+}
+table {
+	border-collapse: collapse;
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
+.pink {
+	background: pink;
+}
+.blue {
+	background-color: blue;
+}
+.red {
+	background-color: red;
+}
+.cyan {
+	background-color: cyan;
+}
+.green {
+	background: green;
+}
+.yellow {
+	background-color: yellow;
+}
+.white {
+	background-color: white;
+}
+.brown {
+	background-color: brown;
+}
+.lightblue {
+	background-color: lightblue;
+}
+.lightgreen {
+	background-color: lightgreen;
+}
+.purple {
+	background-color: purple;
+}
